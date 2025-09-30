@@ -8,9 +8,9 @@ const Header = () => {
     <header className="bg-white shadow-sm">
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
-          <Link to="/" className="flex items-center gap-2 text-yellow-600 font-bold text-xl">
+          <Link to="/" className="flex items-center gap-2 text-yellow-600 font-bold">
             <Sticky size={24} />
-            <span>Sticky Notes</span>
+            <span>Sticky Notes-- by Gabi School and Ayuub Yusuf</span>
           </Link>
           
           <div className="flex gap-4">
